@@ -8,4 +8,3 @@
     git clone https://github.com/joeban0608/ZTM-robotfriends-Redux.git
     npm install
     npm start
----
