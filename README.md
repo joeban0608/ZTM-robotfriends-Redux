@@ -3,7 +3,6 @@
 
 ---
 在terminal輸入以下編碼，測試專案：
-
     git clone https://github.com/joeban0608/ZTM-robotfriends-Redux.git
     npm install
     npm start
