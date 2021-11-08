@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/joeban0608/ZTM-robotfriends-Redux/static/css/main.9c7d6da1.chunk.css",
+    "main.js": "/joeban0608/ZTM-robotfriends-Redux/static/js/main.0e425b14.chunk.js",
+    "main.js.map": "/joeban0608/ZTM-robotfriends-Redux/static/js/main.0e425b14.chunk.js.map",
+    "runtime-main.js": "/joeban0608/ZTM-robotfriends-Redux/static/js/runtime-main.59d1d4d9.js",
+    "runtime-main.js.map": "/joeban0608/ZTM-robotfriends-Redux/static/js/runtime-main.59d1d4d9.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/joeban0608/ZTM-robotfriends-Redux/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.04d9d6c9.chunk.js": "/joeban0608/ZTM-robotfriends-Redux/static/js/2.04d9d6c9.chunk.js",
+    "static/js/2.04d9d6c9.chunk.js.map": "/joeban0608/ZTM-robotfriends-Redux/static/js/2.04d9d6c9.chunk.js.map",
+    "static/js/3.64ea2c0d.chunk.js": "/joeban0608/ZTM-robotfriends-Redux/static/js/3.64ea2c0d.chunk.js",
+    "static/js/3.64ea2c0d.chunk.js.map": "/joeban0608/ZTM-robotfriends-Redux/static/js/3.64ea2c0d.chunk.js.map",
+    "index.html": "/joeban0608/ZTM-robotfriends-Redux/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/joeban0608/ZTM-robotfriends-Redux/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.9c7d6da1.chunk.css.map": "/joeban0608/ZTM-robotfriends-Redux/static/css/main.9c7d6da1.chunk.css.map",
+    "static/js/2.04d9d6c9.chunk.js.LICENSE.txt": "/joeban0608/ZTM-robotfriends-Redux/static/js/2.04d9d6c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/joeban0608/ZTM-robotfriends-Redux/static/media/SuperMario256.4f725b59.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d1d4d9.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.04d9d6c9.chunk.js",
+    "static/css/main.9c7d6da1.chunk.css",
+    "static/js/main.0e425b14.chunk.js"
+  ]
+}
